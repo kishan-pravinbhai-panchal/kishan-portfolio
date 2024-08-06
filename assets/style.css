@@ -1348,7 +1348,8 @@
   
     .avatar-box { border-radius: 50%; }
   
-    .avatar-box img { width: 120px; }
+    .avatar-box img { width: 120px;
+                    border-radius: 50%;}
   
     .info-content .name { margin-bottom: 15px; }
   
@@ -1844,7 +1845,8 @@
   
     .sidebar-info { flex-direction: column; }
   
-    .avatar-box img { width: 150px; }
+    .avatar-box img { width: 150px;
+                    border-radius: 50%;}
   
     .info-content .name {
       white-space: nowrap;
