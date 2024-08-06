@@ -335,6 +335,9 @@
     background: var(--bg-gradient-onyx);
     border-radius:50%;
   }
+  .avatar-box img {
+    border-radius : 50%;
+}
   
   
   .info-content .name {
