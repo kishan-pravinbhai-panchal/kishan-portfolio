@@ -495,7 +495,11 @@
   /*-----------------------------------*\
     #ABOUT
   \*-----------------------------------*/
-  
+
+
+   article.about {
+    min-height: 50%;
+   }
   .about .article-title { margin-bottom: 15px; }
   
   .about-text {
@@ -504,6 +508,7 @@
     font-weight: var(--fw-300);
     line-height: 1.6;
   }
+  
   
   .about-text p { margin-bottom: 15px; }
   
